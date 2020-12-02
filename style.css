@@ -1,6 +1,15 @@
 #workby {
   text-align: left;
+  font-size: 32;
   font-family: 'Texturina', serif;
+}
+
+#alsofeat{
+  padding-left: 50px;
+}
+
+h2 {
+  font-family: monospace;
 }
 
 .artists {
